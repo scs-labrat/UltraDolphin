@@ -1,15 +1,7 @@
 
 # UltraDolphin
 
-```
-  _    _ _ _              _____      _ _     _      
- | |  | (_) |            |  __ \    | | |   (_)     
- | |  | |_| |_ _ __ ___  | |  | | __| | |__  _ _ __  
- | |  | | | __| '__/ _ \ | |  | |/ _` | '_ \| | '_ \ 
- | |__| | | |_| | |  __/ | |__| | (_| | |_) | | | | |
-  \____/|_|\__|_|  \___| |_____/ \__,_|_.__/|_|_| |_|
-```
-
+![UltraDolphin](dolphin.jpg)
 ## Overview
 
 UltraDolphin is a Python-based project designed to process audio signals, modulate them into ultrasonic frequencies, and then demodulate them back into audible signals with introduced artifacts. This project showcases techniques in audio signal processing, including amplitude modulation, non-linear distortion, and filtering.
