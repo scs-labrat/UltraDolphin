@@ -11,7 +11,15 @@ UltraDolphin is a Python-based project designed to process audio signals, modula
 - **Audio Resampling:** Automatically checks and resamples the input audio to the desired sample rate.
 - **Ultrasonic Modulation:** Modulates audio signals to a high-frequency ultrasonic carrier.
 - **Non-linear Distortion:** Applies non-linear transformations to simulate microphone distortions.
+
+![Ultrasonic Dolphin Audio](ultrasonic.png)
+
+![Ultrasonic Dolphin attack](ultradolphin_ultrasonic.png)
+
 - **Audible Artifact Extraction:** Filters the non-linear signal to extract audible artifacts.
+
+![Audible Artifacts](artifacts_freq_response.png)
+
 - **Spectrum Analysis:** Plots the frequency spectrum of various stages of the signal processing.
 
 ## Installation
